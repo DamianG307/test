@@ -1,2 +1,3 @@
 Plik tekstowy testowy
 jeszcze inna linijka tekstu niż wcześniej noway
+nowa linijka tekstu ciekawe co sie stanie jak to zmerguje noway
