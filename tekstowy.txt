@@ -1,1 +1,2 @@
 Plik tekstowy testowy
+jeszcze inna linijka tekstu niż wcześniej noway
